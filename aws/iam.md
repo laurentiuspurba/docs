@@ -14,7 +14,7 @@ IAM allows you to manage users and their level of access to the AWS Console.
 * Integrates with many different AWS services
 * Supports PCI DSS compliance
 
-## Important
+## Terms
 * Users - End users
 * Group - A collection of users
 * Roles - A way to communicate between resources, ie. EC2 with S3
