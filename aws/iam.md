@@ -19,3 +19,6 @@ IAM allows you to manage users and their level of access to the AWS Console.
 * Group - A collection of users
 * Roles - A way to communicate between resources, ie. EC2 with S3
 * Policies - Set of document that defines permission (It sits on top of the 3 above)
+
+## MFA - Multi Factor Authentication
+* Two types: Virtual, and hardware MFA device
