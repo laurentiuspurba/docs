@@ -1,7 +1,7 @@
 # IAM-101
 
 ## What is AIM?
-IAM allows you to manage users and their level of access to the AWS Console. 
+IAM allows you to manage users and their level of access to the AWS Console. It is universal, and does not apply to region.
 
 ## What does IAM give you?
 * Centralised control of AWS account
