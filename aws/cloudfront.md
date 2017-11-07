@@ -11,3 +11,16 @@ A content delivery network (CDN) is a system of distributed serves (network) tha
 So, Amazon CloudFront can be used to delivery your entire website, including dynamic, static, streaming, and interactive content using a global network of edge locations. Requests for your content are automatically routed to the nearest edge location, so content is delivered with the best possible performance.
 
 Amazon CloudFront is optimized to work with other Amazon Web Services, like Amazon Simple Storage Service (Amazon S3), Amazon Elastic Compute Cloud (Amazon EC2), Amazon Elastic Load Balancing, and Amazon Route53. Amazon CloudFront also works seamlessly with any non-AWS origin server, which stores the original, definitive versions of your files.
+
+## Other Key Terminology
+* Distribution consist of the following:
+  * Web Distribution - Typically used for Websites
+  * RTMP distribution - Used for Media Streaming
+
+## Exam Tips
+* Understand what Edge Location is (see above)
+  * Edge Locations are not for READ only, you can WRITE to them too, ie. put an object on to them.
+* Definition of Origin (see above)
+* Distribution (see above)
+* Objects are cached for the life of the TTL (Time To Live)
+* You can clear cached objects, but you will be charged
