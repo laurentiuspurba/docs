@@ -34,3 +34,10 @@ There are 2 different types of **Volume Gateway**
 ### Tape Gateway - More on
 Tape Gateway offers a durable, cost-effective solution to archive your data in the AWS cloud. The VTL interface it provides lets you leverage your existing tape-based backup application infrastructure to store data on virtual tape cartridges that you create on your tape gateway. Each tape gateway is preconfigured with a media changer and tape drives, which are available to you existing client backup application as iSCSI devices. You add tape cartridges as you need to archive your data. Supported by NetBackup, Backup Exec, Veeam, etc.
 
+## Exam Tips
+* File Gateway - For flat files, stored directly on S3.
+* Volume Gateway (Blocked based storage, with iSCSI protocol):
+  * Stored Volumes - Entire Dataset is stored on site and is asynchronously backed up to S3.
+  * Cached Volumes - Entire Dataset is stored on S3 and the most frequently accessed data is cached on site.
+* Gateway Virtual Tape Library (VTL):
+  * Used for backup and uses popular backup applications like NetBackup, Backup Exec, Veeam, etc.
