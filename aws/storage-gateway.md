@@ -21,6 +21,11 @@ Files are stored as objects in your S3 buckets, accessed through a Network File 
 ### Volume Gateway (Block-based storage) - More on
 The volume interface presents your applications with disk volumes using the iSCSI block protocol. Block-based storage that you can store Operating System, application such as SQL server, run databases from it. So, think of this as **Virtual Hardisk**
 
-Data written to these volumes can be asynchronously backed up as point-in-time snapshots of your volumes, and stored in the cloud as Amazon EBS snapshots.
+Data written to these volumes can be asynchronously backed up as point-in-time snapshots of your volumes, and stored in the cloud as Amazon EBS (Elastic Block Store) snapshots. EBS is a virtual hardisk, storage that will be attached to EC2 instances.
 
 Snapshots are incremental backups that capture only changed blocks. All snapshot storage is also compressed to minimize your storage charges.
+
+*NOTE*: Volume Gateway is basically a Virtual Harddisk that is ready to be used by other AWS instances.
+
+There are 2 different types of **Volume Gateway**
+* **Stored Volumes** - 
