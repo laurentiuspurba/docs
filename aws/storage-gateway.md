@@ -12,4 +12,6 @@ AWS Storage Gateway's software appliance is available for download as a virtual 
 * Volume Gateway (iSCSI) - Block based storeage, could be a virtual harddisk that your VM is running on, not for flat files. This type consists of:
   * Stored Volumes - This is where you store the entire copy of your data set on-site/on-premise
   * Cached Volumes - Store the most recently accessed only
-* Tape Gateway (VTL)
+* Tape Gateway (VTL) - Back up and archiving solution that allows you to create virtual tape to S3, and you can send that virtual tape to Glacier
+
+### File Gateway - More on
