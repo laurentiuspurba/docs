@@ -28,6 +28,6 @@ Snapshots are incremental backups that capture only changed blocks. All snapshot
 *NOTE*: Volume Gateway is basically a Virtual Harddisk that is ready to be used by other AWS instances.
 
 There are 2 different types of **Volume Gateway**
-* **Stored Volumes** - Stored volumes let you store your primary data locally, while asynchronously backing up that data to AWS. Stored volumes provide your on-promises applications with low-latency access to their entire datasets, while providing durable, off-site backups. You can create storage volumes and mount them as iSCSI devices from your on-promises application servers. Data written to your stored volumes is stored on your on-premises storage hardware. This data is asynchronously backed up to Amazon Simple Storage Service (Amazon S3) in the form of Amazon Elastic Block Store (Amazon EBS) snapshots. 1 GB - 16 TB in size for Stored Volumes.
+* **Stored Volumes** - Stored volumes let you store your primary data locally, while asynchronously backing up that data to AWS. Stored volumes provide your on-premises applications with low-latency access to their entire datasets, while providing durable, off-site backups. You can create storage volumes and mount them as iSCSI devices from your on-promises application servers. Data written to your stored volumes is stored on your on-premises storage hardware. This data is asynchronously backed up to Amazon Simple Storage Service (Amazon S3) in the form of Amazon Elastic Block Store (Amazon EBS) snapshots. 1 GB - 16 TB in size for Stored Volumes.
 
 
