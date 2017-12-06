@@ -14,12 +14,12 @@ AWS Storage Gateway's software appliance is available for download as a virtual 
   * Cached Volumes - Store the most recently accessed only
 * Tape Gateway (VTL) - Back up and archiving solution that allows you to create virtual tape to S3, and you can send that virtual tape to Glacier
 
-### File Gateway - More on
+### File Gateway (Flat file) - More on
 Files are stored as objects in your S3 buckets, accessed through a Network File System (NFS) mount point. Ownership, permissions, and timestamps are durably stored in S3 in the user-metadata of the object associated with the file. Once objects are transferred to S3, they can be managed as native S3 objects, and bucket policies such as versioning, lifestyle management, and cross-region replication apply directly to objects in your bucket.
 (Unlikely show in the exam)
 
-### Volume Gateway - More on
-The volume interface presents your applications with disk volumes using the iSCSI block protocol.
+### Volume Gateway (Block-based storage) - More on
+The volume interface presents your applications with disk volumes using the iSCSI block protocol. Block-based storage that you can store Operating System, application such as SQL server, run databases from it. So, think of this as **Virtual Hardisk**
 
 Data written to these volumes can be asynchronously backed up as point-in-time snapshots of your volumes, and stored in the cloud as Amazon EBS snapshots.
 
