@@ -20,3 +20,7 @@ Files are stored as objects in your S3 buckets, accessed through a Network File 
 
 ### Volume Gateway - More on
 The volume interface presents your applications with disk volumes using the iSCSI block protocol.
+
+Data written to these volumes can be asynchronously backed up as point-in-time snapshots of your volumes, and stored in the cloud as Amazon EBS snapshots.
+
+Snapshots are incremental backups that capture only changed blocks. All snapshot storage is also compressed to minimize your storage charges.
