@@ -17,3 +17,6 @@ AWS Storage Gateway's software appliance is available for download as a virtual 
 ### File Gateway - More on
 Files are stored as objects in your S3 buckets, accessed through a Network File System (NFS) mount point. Ownership, permissions, and timestamps are durably stored in S3 in the user-metadata of the object associated with the file. Once objects are transferred to S3, they can be managed as native S3 objects, and bucket policies such as versioning, lifestyle management, and cross-region replication apply directly to objects in your bucket.
 (Unlikely show in the exam)
+
+### Volume Gateway - More on
+The volume interface presents your applications with disk volumes using the iSCSI block protocol.
