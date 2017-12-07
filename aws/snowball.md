@@ -18,3 +18,11 @@ Example: Airline company using Snowball to get the engine flight data while flyi
 
 ### Snowmobile
 AWS Snowmobile is an Exabyte-scale data transfer service used to move extremly large amounts of data to AWS. You can transfer up to 100PB per Snowmobile, a 45-foot long ruggedized shipping container, pulled by a semi-trailer truck. Snowmobile makes it easy to move massive volumes of data to the cloud, including video libraries, image repositories, or even a complete data center migration. Transferring data with Snowmobile is secure, fast and cost effective.
+
+## Exam Tips
+* Understand what Snowmobile is
+* Understand what Import Export (Legacy application - Sent in different type of disks) is
+* What Snowball can do:
+  * Import to S3
+  * Export from S3
+  * *Note* If you are using Glacier, you have to restore from Glacier to S3, and from S3 onto Snowball appliance
