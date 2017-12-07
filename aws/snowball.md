@@ -10,5 +10,10 @@ Snowball is a petabyte-scale data transport solution that uses secure appliances
 80TB Snowball in all regions. Snowball uses multiple layers of security designed to protect your data including tamper-resistant enclosures, 256-bit encryption, and an indsutry-standard Trusted Platform Module (TPM) designed to ensure both security and full chain-of-custody of your data. Once the data transfer job has been processed and verified, AWS performs as software earsure of the Snowball appliance.
 
 ### Snowball Edge
+AWS Snowball Edge is a 100TB data transfer device with on-board storage and compute capabilities. You can use Snowball Edge to move large amounts of data in and out of AWS, as a temporary storage tier for large local datasets, or to support local workloads in remote or offline locations.
+
+Snowball Edge connects to your existing applications and infrastructure using standard storage interfaces, streamlining the data transfer process and minimizing setup and integration. Snowball Edge can cluster together to form a local storage tier and process your data on-premises, helping ensure your applications continue to run even when they are not able to access the cloud.
+
+Example: Airline company using Snowball to get the engine flight data while flying from one location to another
 
 ### Snowmobile
