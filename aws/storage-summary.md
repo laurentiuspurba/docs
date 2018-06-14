@@ -1,2 +1,2 @@
-## S3 - Exam Tips for S3 101
+# S3 - Exam Tips for S3 101
 * Remember that S3 is object based ie. it allows you to upload files.
