@@ -58,9 +58,9 @@ Conists of:
 ## Multi-layered security approach
 | Layer   | Notable security measures (among others)  |
 |---|---|
-| Operational security |   |
-| Internet communication |   |
-| Storage services  |   |
-| User identity |  |
-| Service deployment |  |
-| Hardware infrastructure |  |
+| Operational security | Intrusion detection system; techniques to reduce insider risk; employee U2F use; software development practices |
+| Internet communication | Google Front End; designed-in Denial of Service protection |
+| Storage services  | Encryption at rest |
+| User identity | Central identity service with support of U2F |
+| Service deployment | Encryption of inter-service communication |
+| Hardware infrastructure | Hardware design provenance; secure boot stack; premises security |
