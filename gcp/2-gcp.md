@@ -19,3 +19,18 @@ There are 4 ways to interact with GCP management layers:
 * Folders group project under an organization
 * Folders can contain projects, other folders, or both
 * Use folders to assign policies
+
+## Identity Access Management IAM
+Consits of:
+* Who - can be defined by google account, google group, service account, entire G-Suite or cloud identity domain
+* Can do what - IAM role (collection of permissions) 
+* On which resources - 
+
+### Type of roles of IAM
+* Primitive - apply across all GCP services in project:
+  * Owner - Invite & remove members, delete project and below
+  * Editor - Deploy application, Modify code, configure service, and below
+  * Viewer - Read-only access 
+  * Billing administrator - Manage billing, add and remove administrators
+* Predefined - 
+* Custom - 
