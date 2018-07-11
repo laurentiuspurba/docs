@@ -15,8 +15,7 @@ It is:
 * Measure service - Pay only what you consume
 
 ## GCP architecture
-![architecture][https://github.com/laurentiuspurba/docs/blob/master/gcp/images/Screen Shot 2018-07-10 at 9.30.31 PM.png]
-![alt text][logo]
+![Alt text](images/Screen%20Shot%202018-07-10%20at%209.30.31%20PM.png?raw=true "GCP Architecture")
 
 ## Region and Zone
 GCP is organized into regions and zones.
