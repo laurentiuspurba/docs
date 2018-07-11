@@ -23,3 +23,5 @@ GCP is organized into regions and zones.
 * zones - europe-west2-a, europe-west2-b, europe-west2-c
 * region- europe-west2
 * multi region -europe
+
+As of now, GCP has 15 regions around the world.
