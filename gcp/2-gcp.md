@@ -32,5 +32,8 @@ Consits of:
   * Editor - Deploy application, Modify code, configure service, and below
   * Viewer - Read-only access 
   * Billing administrator - Manage billing, add and remove administrators
-* Predefined - 
+* Predefined - Define where the roles can be applied; for example, Compute Engine offers a set predefined roles; Cloud Big tables offers role that can be applied across the entier organization to particular project or to individual big table instance
 * Custom - 
+
+## IAM Roles
+
