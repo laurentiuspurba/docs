@@ -24,3 +24,33 @@ GCP is organized into regions and zones.
 * multi region -europe
 
 As of now, GCP has 15 regions around the world.
+
+### Compute Services
+Consists of:
+* Compute Engine
+* Kubernetes Engine
+* App Engine
+* Cloud Functions
+
+### Storage Services
+Consists of:
+* Big Table
+* Cloud Storage
+* Cloud SQL
+* Cloud Spanner
+* Cloud Datastore
+
+### Big Data Services
+Consists of:
+* Big Query
+* Pub/Sub
+* Dataflow
+* Dataproc
+* Datalab
+### Machine Learning Services
+Conists of:
+* Natural Language API
+* Vision API
+* Machine Learning
+* Speech API
+* Translate API
