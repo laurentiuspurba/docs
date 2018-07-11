@@ -9,3 +9,7 @@ There are 4 ways to interact with GCP management layers:
 * Cloud Shell and Cloud SDK - Command-line interface
 * Cloud Console Mobile App - For IOS and Android
 * REST-based API - For custom applications
+
+### Resource hierarchy level
+* Group your resources according to your organization structure
+* Levels of hierarchy provide trust boundaries and resource isolation
