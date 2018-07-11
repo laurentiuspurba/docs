@@ -13,3 +13,7 @@ It is:
 * Resouce pooling - Provider shares resources to customer
 * Rapid elasticity - Get more resources quickly as needed
 * Measure service - Pay only what you consume
+
+## GCP architecture
+![architecture][https://github.com/laurentiuspurba/docs/gcp/edit/master/images/Screen Shot 2018-07-10 at 9.30.31 PM.png]
+![alt text][logo]
