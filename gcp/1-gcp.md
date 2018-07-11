@@ -15,5 +15,11 @@ It is:
 * Measure service - Pay only what you consume
 
 ## GCP architecture
-![architecture][https://github.com/laurentiuspurba/docs/gcp/edit/master/images/Screen Shot 2018-07-10 at 9.30.31 PM.png]
+![architecture][https://github.com/laurentiuspurba/docs/blob/master/gcp/images/Screen Shot 2018-07-10 at 9.30.31 PM.png]
 ![alt text][logo]
+
+## Region and Zone
+GCP is organized into regions and zones.
+* zones - europe-west2-a, europe-west2-b, europe-west2-c
+* region- europe-west2
+* multi region -europe
