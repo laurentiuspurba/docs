@@ -13,3 +13,4 @@ There are 4 ways to interact with GCP management layers:
 ### Resource hierarchy level
 * Group your resources according to your organization structure
 * Levels of hierarchy provide trust boundaries and resource isolation
+![Alt text](images/Screen%20Shot%202018-07-10%20at%2010.46.38%20PM.png?raw=true "GCP hierarchy")
