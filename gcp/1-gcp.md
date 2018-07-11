@@ -54,3 +54,13 @@ Conists of:
 * Machine Learning
 * Speech API
 * Translate API
+
+## Multi-layered security approach
+| Layer   | Notable security measures (among others)  |
+|---|---|
+| Operational security |   |
+| Internet communication |   |
+| Storage services  |   |
+| User identity |  |
+| Service deployment |  |
+| Hardware infrastructure |  |
