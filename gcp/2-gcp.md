@@ -42,3 +42,5 @@ Consits of:
   * Typically use JSON as an interchange format
   * User OAuth 2.0 for authentication and authorization
 * Enabled through Google Cloud Platform Console
+* Most APIs include daily quota and rate limits
+* 
