@@ -37,3 +37,8 @@ Consits of:
 
 ## IAM Roles
 
+## RESTful API
+* Programatic access to products and services
+  * Typically use JSON as an interchange format
+  * User OAuth 2.0 for authentication and authorization
+* Enabled through Google Cloud Platform Console
