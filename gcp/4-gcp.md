@@ -35,3 +35,5 @@ Cloud storage characteristics:
 * Cloud storage always encrypts your data in the server side before it is written to disk
 * By default, data in transit is encrypted via https
 * There is a service to transfer your large amount of data to Cloud storage
+
+![Alt text](images/cloudstoragetableinfo.png?raw=true "GCP Cloud Storage Info")
