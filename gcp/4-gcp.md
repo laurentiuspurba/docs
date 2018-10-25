@@ -52,4 +52,4 @@ Cloud storage classes:
 * Nearline
 * Coldline
 
-![Alt text](images/cloudstorageclasses.png.png?raw=true "GCP Cloud Storage Classes")
+![Alt text](images/cloudstorageclasses.png?raw=true "GCP Cloud Storage Classes")
