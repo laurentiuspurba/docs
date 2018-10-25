@@ -8,3 +8,5 @@ They are few options, they are:
 * Cloud Spanner
 * Cloud Data Store
 * Google Big Table
+
+## Cloud Storage <img src=
