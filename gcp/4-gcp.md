@@ -45,3 +45,9 @@ Each ACL consists of 2 pieces of information:
 * A permission which defines what action can be performed, for example read or write
 
 Cloud storage offers lifecycle management policy, for example, you can define a policy to delete objects that are older than 30 days.
+
+Cloud storage classes:
+* Regional
+* Multi regional
+* Nearline
+* Coldline
