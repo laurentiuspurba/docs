@@ -43,3 +43,5 @@ If you need finer control, Access Control List (ACL) is your friend. It defines 
 Each ACL consists of 2 pieces of information:
 * A scope which defines who can perform specify actions, for example a specific user or group of users
 * A permission which defines what action can be performed, for example read or write
+
+Cloud storage offers lifecycle management policy, for example, you can define a policy to delete objects that are older than 30 days.
