@@ -53,3 +53,11 @@ Cloud storage classes:
 * Coldline
 
 ![Alt text](images/cloudstorageclasses.png?raw=true "GCP Cloud Storage Classes")
+
+There are several ways to bring data int Cloud storage:
+* **Online Transfer**: (gsutil) Self-manage copies using command-line tools or drag-and-drop
+* **Storage Transfer Service**: Scheduled, manages batch transfer
+* **Transfer Appliance**: Rackable appliances to securly ship your data
+
+Cloud Storage works with other GCP service:
+![Alt text](images/cloudstoragewithotherservices.pg.png?raw=true "GCP Cloud Storage with other Services")
