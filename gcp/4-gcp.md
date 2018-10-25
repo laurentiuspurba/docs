@@ -37,3 +37,9 @@ Cloud storage characteristics:
 * There is a service to transfer your large amount of data to Cloud storage
 
 ![Alt text](images/cloudstoragetableinfo.png?raw=true "GCP Cloud Storage Info")
+To control you bucket, cloud IAM is sufficient, role is inherited from project, to bucket, to object.
+If you need finer control, Access Control List (ACL) is your friend. It defines who has access to your buckets and objects as well what access level that they have.
+
+Each ACL consists of 2 pieces of information:
+* A scope which defines who can perform specify actions, for example a specific user or group of users
+* A permission which defines what action can be performed, for example read or write
