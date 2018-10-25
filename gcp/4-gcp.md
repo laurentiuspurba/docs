@@ -51,3 +51,5 @@ Cloud storage classes:
 * Multi regional
 * Nearline
 * Coldline
+
+![Alt text](images/cloudstorageclasses.png.png?raw=true "GCP Cloud Storage Classes")
