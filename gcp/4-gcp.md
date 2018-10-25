@@ -9,4 +9,5 @@ They are few options, they are:
 * Cloud Data Store
 * Google Big Table
 
-## Cloud Storage <img src=
+## Cloud Storage
+![Alt text](images/gcpcloudstorage.png?raw=true "GCP Cloud Storage")
