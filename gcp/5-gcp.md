@@ -19,5 +19,5 @@ Why choose Cloud BigTable?
 * Control Access with IAM
 * BigTable drives major application such as Google Analytics and Gmail
 
-## Bigtabl Access Patterns
+## Bigtable Access Patterns
 ![Alt text](images/bigtableaccesspatterns.png?raw=true "GCP Cloud BigTable Access Patterns")
