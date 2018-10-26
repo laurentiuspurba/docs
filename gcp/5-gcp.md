@@ -11,3 +11,13 @@ Cloud Bigtable is
 Another characteric of Cloud Bigtable:
 * Accessed using HBase API
 * Native compatibility with big data, Hadoop ecosystems
+
+Why choose Cloud BigTable?
+* Manage, scalable storage
+* Transparent administrative tasks, such as updates, patches, etc.
+* Data encryption both in-flight and at rest
+* Control Access with IAM
+* BigTable drives major application such as Google Analytics and Gmail
+
+## Bigtabl Access Patterns
+![Alt text](images/bigtableaccesspatterns.png?raw=true "GCP Cloud BigTable Access Patterns")
