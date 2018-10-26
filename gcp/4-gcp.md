@@ -7,7 +7,7 @@ They are few options, they are:
 * Cloud SQL
 * Cloud Spanner
 * Cloud Data Store
-* Google Big Table
+* Cloud BigTable
 
 ## Cloud Storage
 ![Alt text](images/gcpcloudstorage.png?raw=true "GCP Cloud Storage")
