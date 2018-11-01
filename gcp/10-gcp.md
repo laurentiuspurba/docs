@@ -15,7 +15,7 @@ Kubernetes:
 
 Kubernetes makes application more elastic
 
-## Kubernetes cluster
+## Kubernetes Cluster
 
 Kubernetes cluster is a group of machines where kubernetes can schedule containers. Those machines are called nodes.
 
@@ -23,3 +23,21 @@ Kubernetes:
 * Multi-zone clusters
 * Load balancing
 * Autoscaling
+
+## Kubernetes Engine
+
+Kubernetes engine lets you build, manage, resize, and delete kubernetes clusters.
+
+These resources are none other than compute engines.
+
+Kubernetes engine:
+* Fully managed system for running containers
+* Uses Compute Engine instances and resources
+* You declare your desired application configuration, Kubernetes Engine implements and manages them.
+
+Why people use Kubernetes Engine:
+* Managed service, decouples operational, development concerns
+* Built-in logging, health management, monitoring
+* Easily update Kubernetes versions as they released
+
+kubernetesenginecomplementaryservices.png
