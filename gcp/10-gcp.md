@@ -40,4 +40,4 @@ Why people use Kubernetes Engine:
 * Built-in logging, health management, monitoring
 * Easily update Kubernetes versions as they released
 
-kubernetesenginecomplementaryservices.png
+![Alt text](images/kubernetesenginecomplementaryservices.png?raw=true "Kubernetes Engine Complementary Services")
