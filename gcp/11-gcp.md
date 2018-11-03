@@ -25,4 +25,4 @@ Type of App Engine environments:
       * No writing local files (could be database instead)
       * All requests are timed out at 60s
       * Limits on third-party software
-      appenginestandardworkflow.png
+      ![Alt text](images/appenginestandardworkflow.png?raw=true "App Engine Standard Workflow")
