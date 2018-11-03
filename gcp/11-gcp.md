@@ -33,4 +33,4 @@ Type of App Engine environments:
   * No sandbox constraints
   * Can access App Engine resources
   
-  appengineenvscomparison.png
+![Alt text](images/appengineenvscomparison.png?raw=true "App Engine Envs Comparisson")
