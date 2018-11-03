@@ -26,3 +26,11 @@ Type of App Engine environments:
       * All requests are timed out at 60s
       * Limits on third-party software
       ![Alt text](images/appenginestandardworkflow.png?raw=true "App Engine Standard Workflow")
+* Flexible Environment:
+  * If sandbox model does not work for you
+  * It lets you specify the container that your App Engine runs in
+  * Build and deploy containerized apps with click
+  * No sandbox constraints
+  * Can access App Engine resources
+  
+  appengineenvscomparison.png
