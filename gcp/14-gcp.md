@@ -19,7 +19,6 @@ Why use Cloud Dataproc?
 * Use Spark Machine Learning Libraries (MLlib) to run classification algorithms
 
 ## Cloud Dataflow
-
 When you have data in real time or it's of unpredicatable size or rate, you need **Cloud Dataflow**.
 
 Cloud Dataflow offers managed data pipeline
@@ -46,4 +45,4 @@ Why use Cloud Dataflow?
   * Open sourc Java and Python SDKs
   
 ## Cloud BigQuery
-Suppose, instead of a dynamic pipeline, your data needs to run more in the way of exploring a vast sea of data. You want to do ad hoc SQL queries on a massive data set. That's what BigQuery is for
+Suppose, instead of a dynamic pipeline, your data needs to run more in the way of exploring a vast sea of data. You want to do ad hoc SQL queries on a massive data set. That's what BigQuery is for.
