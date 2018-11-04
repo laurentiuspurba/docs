@@ -40,3 +40,10 @@ Example
 
 Why use Cloud Dataflow?
 * ETL (Extract, Transform, Load) pipelines to move, filter, enrich, and shape data
+* Data analysis: batch computation or continuous computation using streaming
+* Orchestration: create pipelines that coordinate services, including external services
+* Integrates with GCP services like Cloud Storage, Cloud Pub/Sub, BigQuery, and Bigtable
+  * Open sourc Java and Python SDKs
+  
+## Cloud BigQuery
+Suppose, instead of a dynamic pipeline, your data needs to run more in the way of exploring a vast sea of data. You want to do ad hoc SQL queries on a massive data set. That's what BigQuery is for
