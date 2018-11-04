@@ -11,3 +11,6 @@
 
 ## Comparing Storage Options
 ![Alt text](images/comparingstorageoptions.png?raw=true "Comparing Storage Options")
+
+## Choosing among Google Cloud Storage classes
+![Alt text](images/chosingamongcloudstorageclasses.png?raw=true "Comparing Storage Options")
