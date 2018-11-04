@@ -59,3 +59,24 @@ BigQuery runs on Google's high-performance infrastructure
 * You only pay for storage and processing used
 * Automatic discount for long-term data storage
 * When the age of your data reaches 90 days in BigQuery, Google will automatically drop the price of storage
+
+## Pub/Sub and Datalab
+When working with data in real time, it helps to have managing service. That's what **Cloud Pub/Sub** is.
+
+It meant to serve as a **simple**, **reliable**, **scalable** foundation for stream analytics.
+* Supports many-to-many asynchronous messaging
+  * Application components make push/pull subscription to topics
+* Includes support for offline consumers
+
+**Pub** stands for Publishers and **Sub** is for Subscribers.
+
+Why use Cloud Pub/Sub?
+* Building block for data ingestion in Dataflow, Internet of Things (IoT), Marketing Analysis
+* Foundation for Datalfow streaming
+* Push notification for cloud-based  applications
+* Connect application across Googel Cloud Platform (push/pull between Compute Engine and App Engine)
+
+Cloud Datalab offers interactive data exploration
+* Interactive tool for large-scale data exploration, transformation, analysis, and visualization
+* Integrated, open source 
+  * Built on Jupyter (formerly IPython)
