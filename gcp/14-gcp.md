@@ -8,6 +8,7 @@ It is called **Integrated serveless platform**.
 
 ## Cloud Dataproc
 Cloud Dataproc is managed by Hadoop
+* It is great, if you have a known data size
 * Fast, easy, managed way to run Hadoop and Spark/Hive/Pig on GCP
 * Create cluster in 90 seconds or less on average
 * Scale clusters up and down even when jobs are running
@@ -15,3 +16,7 @@ Cloud Dataproc is managed by Hadoop
 Why use Cloud Dataproc?
 * Easily migrate on-premises Hadoop jobs to the cloud
 * Save money with preemptible instances
+* Use Spark Machine Learning Libraries (MLlib) to run classification algorithms
+
+## Cloud Dataflow
+
