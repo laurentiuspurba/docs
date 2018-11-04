@@ -20,3 +20,22 @@ Why use Cloud Dataproc?
 
 ## Cloud Dataflow
 
+When you have data in real time or it's of unpredicatable size or rate, you need **Cloud Dataflow**.
+
+Cloud Dataflow offers managed data pipeline
+* Fully automate; serverless
+* Processes data using Compute Engine instances
+  * Clusters are sized for you
+  * Automated scaling, no instance provisioning required
+* It's both unified programming model and managed service
+* Lets you develop and execute a big range of data processing patterns
+* Extract, to Transform, and Load (ETL) batch computation and continuous computation
+* Build pipelines for batch and streaming data
+* Write code once and get batch and streaming
+  * Transform-based programming model
+
+Example
+![Alt text](images/clouddataflowexample.png?raw=true "Cloud Dataflow example")
+
+Why use Cloud Dataflow?
+* ETL (Extract, Transform, Load) pipelines to move, filter, enrich, and shape data
