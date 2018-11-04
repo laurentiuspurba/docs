@@ -35,6 +35,7 @@ Cloud Dataflow offers managed data pipeline
   * Transform-based programming model
 
 Example
+
 ![Alt text](images/clouddataflowexample.png?raw=true "Cloud Dataflow example")
 
 Why use Cloud Dataflow?
