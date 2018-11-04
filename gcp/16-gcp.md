@@ -1,0 +1,3 @@
+# Recap
+
+comparingcomputeoptions.png
