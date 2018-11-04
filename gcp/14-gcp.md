@@ -46,3 +46,16 @@ Why use Cloud Dataflow?
   
 ## Cloud BigQuery
 Suppose, instead of a dynamic pipeline, your data needs to run more in the way of exploring a vast sea of data. You want to do ad hoc SQL queries on a massive data set. That's what BigQuery is for.
+
+BigQuery is a fully-managed data warehouse*
+* Provides near real-time interactive analysis of massive datasets (hundreds of TBs) using SQL syntax (SQL 2011)
+* No cluster maintenance is required
+* Pay-as-you-go model
+* Easy to get data into BigQuery, you can load it from Cloud Storage, Cloud Data Store, or stream it to Big Query at up to 100K rows per second
+* 99.99% Service Level Agreement (SLA)
+
+BigQuery runs on Google's high-performance infrastructure
+* Compute and storage are separated with a terabit network in between
+* You only pay for storage and processing used
+* Automatic discount for long-term data storage
+* When the age of your data reaches 90 days in BigQuery, Google will automatically drop the price of storage
